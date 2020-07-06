@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/WorldMap">
+        <file alias="MoonSurface">moon surface.jpg</file>
+        <file alias="Sun">sun.jpg</file>
+        <file alias="WorldMap">WorldMap.jpg</file>
+        <file alias="Galaxy">galaxy.jpg</file>
+    </qresource>
+</RCC>
